@@ -33,6 +33,9 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 - *Manual de Prácticas para la Asignatura de Programación Declarativa*   
   Proyecto de titulación de licenciatura (Ciencias de la Computación, 2019)
 
+- *Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lecturaLeetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura*   
+  MexIHC 2016 · 1 ene. 2016
+
 ### 🤓 Proyectos recientes
 
 Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda confianza al correo [manu@ciencias.unam.mx](mailto:manu@ciencias.unam.mx).

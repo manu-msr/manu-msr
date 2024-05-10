@@ -35,7 +35,7 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 
 ### 🤓 Proyectos recientes
 
-Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda confianza al correo [manu@ciencias.unam.mx].
+Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda confianza al correo [manu@ciencias.unam.mx](mailto:manu@ciencias.unam.mx).
 
 ##### Asesor en proyectos de titulación
 

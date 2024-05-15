@@ -29,9 +29,11 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 
 - *Seguridad de Sistemas de Tipos vía Verificación de Modelos*   
   Proyecto de obtención de grado de maestría (Ciencia e Ingeniería de la Computación, 2023)
+  Dirigia por el Dr. Favio E. Miranda Perea y el Dr. David A. Rosenblueth Laguette
 
 - *Manual de Prácticas para la Asignatura de Programación Declarativa*   
   Proyecto de titulación de licenciatura (Ciencias de la Computación, 2019)
+  Dirigida por la Dra. Karla Ramírez Pulido
 
 - *Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lecturaLeetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura*   
   MexIHC 2016 · 1 ene. 2016

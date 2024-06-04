@@ -76,10 +76,11 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
   
 </details>
 
-### 🧩 Cursos anteriores
+### 🧩 Cursos impartidos
 
 <details><summary><b>Facultad de Ciencias, UNAM</b></summary>
 
+- Lógica Computacional
 - Lenguajes de Programación
 - Compiladores
 - Programación Declarativa

@@ -1,6 +1,7 @@
 👨‍🏫 **Actualmente estoy enseñando**
 
-- Lógica Computacional (Facultad de Ciencias, UNAM)
+- [Introducción a Bases de Datos (BEDU, BEDU Tech)](https://github.com/beduExpert/Introduccion-a-Bases-de-Datos-2024)
+- [Lógica Computacional (Facultad de Ciencias, UNAM)](https://www.fciencias.unam.mx/docencia/horarios/presentacion/352333)
 
 🧐 **Actualmente estoy aprendiendo**
 

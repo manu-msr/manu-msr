@@ -23,10 +23,7 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 
 ### 📚 Investigación y divulgación
 
-##### Blog de divulgación
-*Próximamente*
-
-##### Publicaciones
+<details><summary><b>Publicaciones</b></summary>
 
 - *Seguridad de Sistemas de Tipos vía Verificación de Modelos*   
   Proyecto de obtención de grado de maestría (Ciencia e Ingeniería de la Computación, 2023)   
@@ -39,26 +36,34 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 - *Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lecturaLeetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura*   
   MexIHC 2016 · 1 ene. 2016
 
+</details>
+
 ### 🤓 Proyectos recientes
 
 Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda confianza al correo [manu@ciencias.unam.mx](mailto:manu@ciencias.unam.mx).
 
-##### Asesor en proyectos de titulación
+<details><summary><b>Asesor en proyectos de titulación</b></summary>
 
 - Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación)  
-  *Manual de Prácticas para la asignatura de Lógica Computacional*   
+  *Manual de Prácticas para la asignatura de Lógica Computacional*
+  
+</details>
 
-##### Sinodal en proyectos de titulación
+<details><summary><b>Sinodal en proyectos de titulación</b></summary>
 
 - Andrés Luisos Barbosa Carranza (Licenciatura en Ciencias de la Computación)   
   *Registro, Modificación y Auditorías en el Sistema de Control Escolar para Cursos y Diplomados (SICECD)*
 
-##### Asesor en proyectos de servicio social
+</details>
+
+<details><summary><b>Asesor en proyectos de servicio social</b></summary>
 
 - Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación)  
-  *Apoyo a la docencia: Ayudante del curso de Programación Declarativa*   
+  *Apoyo a la docencia: Ayudante del curso de Programación Declarativa*
 
-##### Desarrollo de material didactico
+ </details>
+
+<details><summary><b>Desarrollo de material didactico</b></summary>
 
 - Diseño del curso Bedu Open: SQL para principiantes (Programa 2021)   
   *BEDU*
@@ -68,14 +73,65 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 
 - Diseño del curso Introducción a Bases de Datos (Programa 2020)   
   *BEDU*
+  
+</details>
+
+### 🧩 Cursos anteriores
+
+<details><summary><b>Facultad de Ciencias, UNAM</b></summary>
+
+- Lenguajes de Programación
+- Compiladores
+- Programación Declarativa
+- Semántica y Verificación
+- Introducción a la Programación Funcional (Extracurricular)
+- Introducción a la Ciencia de Datos con Python (Extracurricular)
+
+</details>
+
+<details><summary><b>Colegio de Ciencia y Tecnología, UACM</b></summary>
+
+- Introducción a la Programación
+- Matemáticas Discretas
+- Introducción a la Ingeniería de Software
+- Programación Orientada a Objetos
+- Estructura de Datos
+- Teoría de la Computación
+- Lenguajes de Programación
+- Computación Móvil
+
+</details>
+
+<details><summary><b>BEDU Tech, BEDU</b></summary>
+
+- Introducción a Bases de Datos
+- Procesamiento de Datos con Python
+- Análisis de Datos con Python
+- Machine Learning
+- Programación con Python
+- Java Backend Básico
+- Inteligencia Artificial Generativa
+- Inteligencia Artificial Generativa para el Análisis de Datos
+
+</details>
 
 ### 🙌 Charlas
+
+<details><summary><b>2024</b></summary>
 
 - Ciencia de Datos: Aplicaciones en Economía   
   UAEH, México, mar. 2024
 
+</details>
+
+<details><summary><b>2023</b></summary>
+
 - Machine Learning con Python: Aprendizaje no supervisado   
   UACM 11vo simposio de Ingeniería, México, oct. 2023
+
+</details>
+
+<details><summary><b>2022</b></summary>
 
 - Sesgos en el tratamiento de datos   
   Bedu Workshops, México, may. 2022
@@ -86,6 +142,10 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 - Los datos detrás de tu date   
   BEDU Live, México, feb. 2022
 
+</details>
+
+<details><summary><b>2021</b></summary>
+
 - Machine Learning: El camino hacia la inteligencia artificial   
   BEDU Workshops, México, oct. 2021
 
@@ -95,8 +155,16 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 - Introducción al Sistema de Tipos de Haskell   
   Lambdada Online, Tercera Edición, México, feb. 2021
 
+</details>
+
+<details><summary><b>2020</b></summary>
+
 - Orígenes de la Programación Funcional   
   Lambdada Online, Primera Edición, México, oct. 2020
+
+</details>
+
+<details><summary><b>2019</b></summary>
 
 - Ciencias de la Computación en la Industria   
   Actividades de Bienvenida a la Generación 2020, Facultad de Ciencias UNAM, CDMX, México, jul. 2019
@@ -107,5 +175,12 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 - ¿Qué son las ciencias de la computación?
   Jornada de Orientación Vocacional 2019, Facultad de Ciencias UNAM, CDMX, México, mar. 2019
 
+</details>
+
+<details><summary><b>2018</b></summary>
+
 - Datos infinitos con el mínimo esfuerzo   
-  *IX Aquelarre Matemático, Facultad de Ciencias UNAM, CDMX, México, oct. 2018*
+  IX Aquelarre Matemático, Facultad de Ciencias UNAM, CDMX, México, oct. 2018
+
+</details>
+

@@ -6,6 +6,7 @@
 🧐 **Actualmente estoy aprendiendo**
 
 - Inglés Nivel 3B (Idiomas CUC)
+- [Machine Learning y Data Science: Curso Completo con Python (Udemy)](https://www.udemy.com/course/machine-learning-desde-cero/)
 
 ### 🌿 Acerca de mí 
 

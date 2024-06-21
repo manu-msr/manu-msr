@@ -1,11 +1,11 @@
-👨‍🏫 **Actualmente estoy enseñando**
+👨‍🏫 **Actualmente estoy enseñando**   
 
 - [Introducción a Bases de Datos (BEDU, BEDU Tech)](https://github.com/beduExpert/Introduccion-a-Bases-de-Datos-2024)
-- [Lógica Computacional (Facultad de Ciencias, UNAM)](https://www.fciencias.unam.mx/docencia/horarios/presentacion/352333)
+- Data Thinking (BEDU, BEDU Tech)
 
 🧐 **Actualmente estoy aprendiendo**
 
-- Inglés Nivel 3B (Idiomas CUC)
+- Inglés Nivel 4 (Idiomas CUC)
 - [Machine Learning y Data Science: Curso Completo con Python (Udemy)](https://www.udemy.com/course/machine-learning-desde-cero/)
 
 ### 🌿 Acerca de mí 
@@ -117,6 +117,7 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 - Java Backend Básico
 - Inteligencia Artificial Generativa
 - Inteligencia Artificial Generativa para el Análisis de Datos
+- Data Thinking
 
 </details>
 
